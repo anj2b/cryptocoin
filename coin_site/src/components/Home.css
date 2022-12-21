@@ -1,0 +1,39 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    border-bottom: 0.5px solid rgb(231, 228, 228);
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    border-bottom: 0.5px solid rgb(231, 228, 228);
+}
+
+.how-to-buy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    border-bottom: 0.5px solid rgb(231, 228, 228);
+}
+
+.roadmap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    border-bottom: 0.5px solid rgb(231, 228, 228);
+}
+
+.address{
+    display: flex;
+}
